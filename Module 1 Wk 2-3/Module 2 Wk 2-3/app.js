@@ -27,7 +27,9 @@ function addTask(taskText) {
 
         taskList.appendChild(li);
     } catch (error) {
-        alert(error.message);
+        // Handle the exception here
+        console.error(error.message);
+        alert(error.message); // Displaying the error message to the user
     }
 }
 
