@@ -60,8 +60,8 @@ Live Server Extension for VS Code: An extension for Visual Studio Code that laun
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+- [Galvanize](https://www.galvanize.com/blog/what-is-javascript-used-for/)
 
 # Future Work
 
